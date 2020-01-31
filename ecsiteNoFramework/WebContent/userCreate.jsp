@@ -19,7 +19,7 @@
 
 		<div>
 
-			<form action="Signup" method="POST">
+			<form action="SignUp" method="POST">
 				<table>
 
 					<tr>
